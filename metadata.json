@@ -1,0 +1,6 @@
+{
+  "name": "Canlı Ders Tahtası - Canlı İnteraktif Beyaz Tahta",
+  "description": "Öğretmen ve öğrencilerin anlık senkronizasyonla ders işleyebildiği, interaktif çizim araçları, lazer işaretçi, zengin tahta arka planları ve gerçek zamanlı WebSocket altyapısı sunan canlı ders tahtası.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
